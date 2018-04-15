@@ -31,3 +31,5 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     To keep tracl of those files that set up the workspace :)
+
+ makeing some change to have something to commit......
